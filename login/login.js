@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 icon: "success",
                 draggable: true
             }).then(() => {
-            window.location.href = "../index.html";
+            window.location.href = "../front/index.html";
         });    
             
         } else {
